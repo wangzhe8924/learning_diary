@@ -6,10 +6,10 @@ github是一个远程的版本控制平台，该云端站点的版本控制能�
 git可以对接github，也可以对接私有云git平台，对接办法见[git对接github.md](https://github.com/wangzhe8924/learning_diary/blob/master/git_learning/git对接github.md)
 
 git图示:
-![git图示](git与github_resource\git图示.png)
+![git图示](git与github_resource\git.png)
 
 github图示:
-![github图示](git与github_resource\github图示.png)
+![github图示](git与github_resource\github.png)
 
 # 2. git官网地址
 > [官网地址](https://git-scm.com)
