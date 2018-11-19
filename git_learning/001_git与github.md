@@ -5,10 +5,10 @@ github：一个面向开源及私有软件项目的托管平台，因为只支�
 github是一个远程的版本控制平台，该云端站点的版本控制能力也是用的git
 git可以对接github，也可以对接私有云git平台，对接办法见[git对接github.md](https://github.com/wangzhe8924/learning_diary/blob/master/git_learning/git对接github.md)
 
-git图示:
+git图示: 
 ![git图示](001_resource/git.PNG)
 
-github图示:
+github图示: 
 ![github图示](001_resource/github.PNG)
 
 # 2. git官网地址
